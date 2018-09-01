@@ -1,6 +1,6 @@
 # code-python
 
-## Projects Completed
+Projects completed for the Code Academy's Python Course. 
 
 #### Unit 2 - Strings and Console Output
 
